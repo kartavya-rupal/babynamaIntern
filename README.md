@@ -1,7 +1,7 @@
 ## Live Demo
 
 Check out the live version of this project here:  
-[Your Live Deployment URL here]
+[\[Live Deployment URL here\]](https://babynama-intern.vercel.app/)
 
 ## Choices Made
 
